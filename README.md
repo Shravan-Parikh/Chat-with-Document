@@ -19,26 +19,22 @@ Similarity Matching: When you ask a question, the app compares it with the text 
 
 Response Generation: The selected chunks are passed to the language model, which generates a response based on the relevant content of the PDFs.
 
-# Dependencies and Installation
-To install the MultiPDF Chat App, please follow these steps:
+To use this codebase chatbot, follow these steps:
 
-Clone the repository to your local machine.
+# 1. Clone the repository:
 
-Install the required dependencies by running the following command:
+```git clone https://github.com/example/repository.git```
 
-**pip install -r requirements.txt**
-Obtain an API key from OpenAI and add it to the .env file in the project directory.
+2. Install the required dependencies:
 
-**HUGGINGFACE_API_KEY=your_hugging_face_token**
+```pip install -r requirements.txt```
 
-Usage
-To use the MultiPDF Chat App, follow these steps:
+3. Set your environment variables in the `.env` file
+* Get your HUGGING FACE API TOKEN and add it here
 
-Ensure that you have installed the required dependencies and added the  API key to the .env file.
+3. Run the Streamlit app:
 
-Run the main.py file using the Streamlit CLI. Execute the following command:
-
-**streamlit run app.py**
+```streamlit run chatbot.py```
 The application will launch in your default web browser, displaying the user interface.
 
 Load multiple PDF documents into the app by following the provided instructions.
