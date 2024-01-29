@@ -1,7 +1,7 @@
 # Chat-with-Documnet
  A chatbot where you can add your PDF's and chat through them.
 
-![UI Image](images/Screenshot_2024-01-29_145926.png)
+![UI Image](https://github.com/Shravan-Parikh/Chat-with-Document/blob/master/images/Screenshot%202024-01-29%20145926.png))
 
 
 # Introduction
