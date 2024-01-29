@@ -1,11 +1,12 @@
 # Chat-with-Documnet
  A chatbot where you can add your PDF's and chat through them.
 
-![UI Image](images/Screenshot 2024-01-29 145926.png)
+![UI Image]([images/Screenshot 2024-01-29 145926.png](https://github.com/Shravan-Parikh/Chat-with-Document/blob/master/images/Screenshot%202024-01-29%20145926.png))
 
 
 # Introduction
 The MultiPDF Chat App is a Python application that allows you to chat with multiple PDF documents. You can ask questions about the PDFs using natural language, and the application will provide relevant responses based on the content of the documents. This app utilizes a language model to generate accurate answers to your queries. Please note that the app will only respond to questions related to the loaded PDFs.
+
 
 # How It Works
 MultiPDF Chat App Diagram
